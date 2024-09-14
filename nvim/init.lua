@@ -1,2 +1,2 @@
-require("tane.core")
-require("tane.lazy")
+require("custom.core")
+require("custom.lazy")
